@@ -1,0 +1,1 @@
+# NRC-Sentiment-Analysis-vs-Hand-Coding-of-Sentiment
